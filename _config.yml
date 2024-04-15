@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # title of site appears in banner
 title: Rick Riordan Book Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A highlight of children's fiction related to Greek, Roman, Norse, Egyptian, and African mythology.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Rick Riordan books from Grace Zayobi's personal collection."
+description: "Rick Riordan books from Grace Zayobi's personal collection, I have unfortunately not read all of these books. I collected them over the course of about 10 years beucase of my interest in mythologies of all cultures."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
